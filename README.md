@@ -1,3 +1,5 @@
 # apnacollege-demo
-This repository is for learniing purpose.<br>
-Author - Abdullah Khalil
+
+This repository is for learniing purpose \
+
+Author - Abdullah (Codanics)
